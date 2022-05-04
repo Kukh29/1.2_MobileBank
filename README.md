@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/uheh0rg27go35nsl?svg=true)](https://ci.appveyor.com/project/Kukh29/1-2-mobilebank)
